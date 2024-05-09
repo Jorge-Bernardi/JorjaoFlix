@@ -1,4 +1,9 @@
-body
-{
-    background-color: blue;
+body{
+    font-family: Netflix Sans, Helvetica Neue, Segoe UI, Roboto, Ubuntu, sans-serif;
+    background-color: #141414;
+    background-image : url(../images/matrix.png);
+    color: lightgray;
+}
+img{
+    padding-left: 80%;
 }
