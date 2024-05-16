@@ -1,0 +1,19 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    font-family: Netflix Sans, Helvetica Neue, Segoe UI, Roboto, Ubuntu, sans-serif;
+    background-color: #141414;  
+    color: lightgray;
+}
+img{
+    border: 2px solid white;
+    padding: 20px;
+    border-radius: 30%;
+    margin: 30px;   
+}
+a{
+    text-decoration: none;
+}

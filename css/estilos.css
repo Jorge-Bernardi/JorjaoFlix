@@ -1,5 +1,8 @@
-
-    
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
     body{
         background: #141414;
         text-align: center;
@@ -50,4 +53,7 @@ img{
     border: 3px solid transparent;
     margin: 30px;
     border-radius: 10px;
+}
+a{
+    text-decoration: none;
 }
